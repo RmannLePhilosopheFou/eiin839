@@ -4,6 +4,7 @@ using System.IO;
 using System.Net;
 using System.Text;
 
+
 namespace BasicServerHTTPlistener
 {
     internal class Program
@@ -49,6 +50,12 @@ namespace BasicServerHTTPlistener
                 HttpListenerContext context = listener.GetContext();
                 HttpListenerRequest request = context.Request;
 
+                HeaderRequest.Header header = new HeaderRequest.Header(request);
+                // for(int i=0; i<HttpRequestHeader.;)
+                /* foreach (HttpRequestHeader in Enum.GetValues())
+                     header.display(i);*/
+
+                header.displayAllHeader();
                 string documentContents;
                 using (Stream receiveStream = request.InputStream)
                 {

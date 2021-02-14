@@ -8,7 +8,7 @@ using System.IO;
 
 namespace Echo
 {
-    class EchoServer
+    class Program
     {
         [Obsolete]
         static void Main(string[] args)
