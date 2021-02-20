@@ -22,7 +22,6 @@ C:\Users\R-mann\Documents\GitHub\eiin839\TD2\ExternalExeCall\obj\Debug\ExternalE
 C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\ExternalExeCall\bin\Debug\ExternalExeCall.exe.config
 C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\ExternalExeCall\bin\Debug\ExternalExeCall.exe
 C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\ExternalExeCall\bin\Debug\ExternalExeCall.pdb
-C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\ExternalExeCall\obj\Debug\ExternalExeCall.csprojAssemblyReference.cache
 C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\ExternalExeCall\obj\Debug\ExternalExeCall.csproj.CoreCompileInputs.cache
 C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\ExternalExeCall\obj\Debug\ExternalExeCall.exe
 C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\ExternalExeCall\obj\Debug\ExternalExeCall.pdb
