@@ -29,6 +29,11 @@ namespace HeaderRequest
             }
         }
 
+        public void printOneHeder(HttpRequestHeader header)
+        {
+            Console.WriteLine(httpListnerRequest.Headers[header.ToString()]);
+        }
+
        
     }
 }

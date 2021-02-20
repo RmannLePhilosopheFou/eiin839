@@ -56,6 +56,15 @@ namespace BasicServerHTTPlistener
                      header.display(i);*/
 
                 header.displayAllHeader();
+                //Display specific Header
+                header.printOneHeader(HttpRequestHeader.ContentType); 
+                header.printOneHeader(HttpRequestHeader.Cookie); 
+                header.printOneHeader(HttpRequestHeader.UserAgent); 
+                header.printOneHeader(HttpRequestHeader.AcceptEncoding); 
+                header.printOneHeader(HttpRequestHeader.Authorization); 
+                header.printOneHeader(HttpRequestHeader.ContentLanguage); 
+                header.printOneHeader(HttpRequestHeader.AcceptCharset); 
+                header.printOneHeader(HttpRequestHeader.AcceptCharset); 
                 string documentContents;
                 using (Stream receiveStream = request.InputStream)
                 {
