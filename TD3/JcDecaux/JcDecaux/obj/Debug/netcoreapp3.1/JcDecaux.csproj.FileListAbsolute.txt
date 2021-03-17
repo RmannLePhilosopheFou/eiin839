@@ -1,0 +1,13 @@
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\JcDecaux\bin\Debug\netcoreapp3.1\JcDecaux.exe
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\JcDecaux\bin\Debug\netcoreapp3.1\JcDecaux.deps.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\JcDecaux\bin\Debug\netcoreapp3.1\JcDecaux.runtimeconfig.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\JcDecaux\bin\Debug\netcoreapp3.1\JcDecaux.runtimeconfig.dev.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\JcDecaux\bin\Debug\netcoreapp3.1\JcDecaux.dll
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\JcDecaux\bin\Debug\netcoreapp3.1\JcDecaux.pdb
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\JcDecaux\obj\Debug\netcoreapp3.1\JcDecaux.csprojAssemblyReference.cache
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\JcDecaux\obj\Debug\netcoreapp3.1\JcDecaux.AssemblyInfoInputs.cache
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\JcDecaux\obj\Debug\netcoreapp3.1\JcDecaux.AssemblyInfo.cs
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\JcDecaux\obj\Debug\netcoreapp3.1\JcDecaux.csproj.CoreCompileInputs.cache
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\JcDecaux\obj\Debug\netcoreapp3.1\JcDecaux.dll
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\JcDecaux\obj\Debug\netcoreapp3.1\JcDecaux.pdb
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\JcDecaux\obj\Debug\netcoreapp3.1\JcDecaux.genruntimeconfig.cache

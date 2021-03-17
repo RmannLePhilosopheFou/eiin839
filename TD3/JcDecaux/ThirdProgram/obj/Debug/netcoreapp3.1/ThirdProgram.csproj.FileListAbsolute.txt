@@ -1,0 +1,12 @@
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\ThirdProgram\bin\Debug\netcoreapp3.1\ThirdProgram.exe
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\ThirdProgram\bin\Debug\netcoreapp3.1\ThirdProgram.deps.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\ThirdProgram\bin\Debug\netcoreapp3.1\ThirdProgram.runtimeconfig.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\ThirdProgram\bin\Debug\netcoreapp3.1\ThirdProgram.runtimeconfig.dev.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\ThirdProgram\bin\Debug\netcoreapp3.1\ThirdProgram.dll
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\ThirdProgram\bin\Debug\netcoreapp3.1\ThirdProgram.pdb
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\ThirdProgram\obj\Debug\netcoreapp3.1\ThirdProgram.AssemblyInfoInputs.cache
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\ThirdProgram\obj\Debug\netcoreapp3.1\ThirdProgram.AssemblyInfo.cs
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\ThirdProgram\obj\Debug\netcoreapp3.1\ThirdProgram.csproj.CoreCompileInputs.cache
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\ThirdProgram\obj\Debug\netcoreapp3.1\ThirdProgram.dll
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\ThirdProgram\obj\Debug\netcoreapp3.1\ThirdProgram.pdb
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\ThirdProgram\obj\Debug\netcoreapp3.1\ThirdProgram.genruntimeconfig.cache

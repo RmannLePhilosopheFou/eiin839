@@ -1,0 +1,13 @@
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.exe
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.deps.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.runtimeconfig.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.runtimeconfig.dev.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.dll
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.pdb
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.csprojAssemblyReference.cache
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.AssemblyInfoInputs.cache
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.AssemblyInfo.cs
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.dll
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.pdb
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.genruntimeconfig.cache

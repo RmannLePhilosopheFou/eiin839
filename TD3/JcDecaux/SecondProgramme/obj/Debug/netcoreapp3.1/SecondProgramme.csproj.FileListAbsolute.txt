@@ -1,0 +1,12 @@
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\SecondProgramme\bin\Debug\netcoreapp3.1\SecondProgramme.exe
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\SecondProgramme\bin\Debug\netcoreapp3.1\SecondProgramme.deps.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\SecondProgramme\bin\Debug\netcoreapp3.1\SecondProgramme.runtimeconfig.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\SecondProgramme\bin\Debug\netcoreapp3.1\SecondProgramme.runtimeconfig.dev.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\SecondProgramme\bin\Debug\netcoreapp3.1\SecondProgramme.dll
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\SecondProgramme\bin\Debug\netcoreapp3.1\SecondProgramme.pdb
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\SecondProgramme\obj\Debug\netcoreapp3.1\SecondProgramme.AssemblyInfoInputs.cache
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\SecondProgramme\obj\Debug\netcoreapp3.1\SecondProgramme.AssemblyInfo.cs
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\SecondProgramme\obj\Debug\netcoreapp3.1\SecondProgramme.csproj.CoreCompileInputs.cache
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\SecondProgramme\obj\Debug\netcoreapp3.1\SecondProgramme.dll
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\SecondProgramme\obj\Debug\netcoreapp3.1\SecondProgramme.pdb
+C:\Users\R-mann\Documents\GitHub\eiin839\TD3\JcDecaux\SecondProgramme\obj\Debug\netcoreapp3.1\SecondProgramme.genruntimeconfig.cache
